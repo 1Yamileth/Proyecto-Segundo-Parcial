@@ -74,7 +74,7 @@ namespace VISTA
                 {
                     miProducto = new Producto();
                     miProducto = productoDB.DevolverProductoPorCodigo(CodigoProductotextBox.Text);
-                    DescripcionProductotextBox.Text = miProducto.Descripcion;//FALLA
+                    DescripcionProductotextBox.Text = miProducto.Descripcion;
                     ExistenciatextBox.Text = miProducto.Existencia.ToString();
 
                 }
