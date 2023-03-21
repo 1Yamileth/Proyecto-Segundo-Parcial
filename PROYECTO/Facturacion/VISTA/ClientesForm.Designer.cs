@@ -86,6 +86,8 @@
             // 
             // Correo_textBox
             // 
+            this.Correo_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.Correo_textBox.Enabled = false;
             this.Correo_textBox.Location = new System.Drawing.Point(167, 127);
             this.Correo_textBox.Name = "Correo_textBox";
@@ -94,6 +96,8 @@
             // 
             // Telefono_textBox
             // 
+            this.Telefono_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.Telefono_textBox.Enabled = false;
             this.Telefono_textBox.Location = new System.Drawing.Point(166, 87);
             this.Telefono_textBox.Name = "Telefono_textBox";
@@ -112,6 +116,8 @@
             // 
             // Identidad_textBox
             // 
+            this.Identidad_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.Identidad_textBox.Enabled = false;
             this.Identidad_textBox.Location = new System.Drawing.Point(166, 16);
             this.Identidad_textBox.Name = "Identidad_textBox";
@@ -130,6 +136,8 @@
             // 
             // Nombre_textBox
             // 
+            this.Nombre_textBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.Nombre_textBox.Enabled = false;
             this.Nombre_textBox.Location = new System.Drawing.Point(166, 51);
             this.Nombre_textBox.Name = "Nombre_textBox";
@@ -158,6 +166,8 @@
             // 
             // DirecciontextBox
             // 
+            this.DirecciontextBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.DirecciontextBox.Enabled = false;
             this.DirecciontextBox.Location = new System.Drawing.Point(166, 173);
             this.DirecciontextBox.Name = "DirecciontextBox";
@@ -178,6 +188,7 @@
             // 
             this.Clientes_dataGridView.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.Clientes_dataGridView.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.Clientes_dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.Clientes_dataGridView.Location = new System.Drawing.Point(6, 305);
             this.Clientes_dataGridView.Name = "Clientes_dataGridView";
