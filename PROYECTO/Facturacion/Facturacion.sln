@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VISTA", "VISTA\VISTA.csproj", "{C92B8C85-D568-45A1-9EC0-55872FD086E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{4F7D0315-B000-4D74-8113-AFF2ADEE1894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{7626401B-F02C-44B3-8F88-76E51F1B805A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92B8C85-D568-45A1-9EC0-55872FD086E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92B8C85-D568-45A1-9EC0-55872FD086E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92B8C85-D568-45A1-9EC0-55872FD086E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92B8C85-D568-45A1-9EC0-55872FD086E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7D0315-B000-4D74-8113-AFF2ADEE1894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7D0315-B000-4D74-8113-AFF2ADEE1894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7D0315-B000-4D74-8113-AFF2ADEE1894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7D0315-B000-4D74-8113-AFF2ADEE1894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7626401B-F02C-44B3-8F88-76E51F1B805A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7626401B-F02C-44B3-8F88-76E51F1B805A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7626401B-F02C-44B3-8F88-76E51F1B805A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7626401B-F02C-44B3-8F88-76E51F1B805A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2851591C-D5F4-4849-ACA8-54920595BD3D}
+	EndGlobalSection
+EndGlobal
